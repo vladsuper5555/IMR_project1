@@ -107,4 +107,4 @@ sysinfo.txt
 # Builds
 *.apk
 .DS_Store
-Packages\com.ptc.vuforia.engine-10.25.4.tgz
+Packages/com.ptc.vuforia.engine-10.25.4.tgz

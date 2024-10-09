@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="valoare_mai_mare" size="0.100000 0.133333" />
+    <ImageTarget name="91d1d7c5-cd2b-4623-ba99-684ed2638a8e" size="0.100000 0.133333" />
+    <ImageTarget name="valoare" size="0.100000 0.133333" />
+  </Tracking>
+</QCARConfig>
